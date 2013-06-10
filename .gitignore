@@ -9,3 +9,5 @@ workspace.xml
 tasks.xml
 .idea/*
 *.iml
+
+.DS_Store
