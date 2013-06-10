@@ -11,3 +11,5 @@ Version History
 1.0 - A blank window opens, template is ready to be used
 
 1.1 - Modified .gitignore to not ignore .jar files, lwjgl lib files added
+
+1.2 - Deleted unused files
