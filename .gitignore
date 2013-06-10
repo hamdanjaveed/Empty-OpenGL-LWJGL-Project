@@ -7,3 +7,5 @@
 # IntelliJ Files #
 workspace.xml
 tasks.xml
+.idea/*
+*.iml
