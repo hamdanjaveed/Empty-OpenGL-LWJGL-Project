@@ -13,3 +13,5 @@ Version History
 1.1 - Modified .gitignore to not ignore .jar files, lwjgl lib files added
 
 1.2 - Deleted unused files
+
+1.3 - Added shader and 3D camera support
