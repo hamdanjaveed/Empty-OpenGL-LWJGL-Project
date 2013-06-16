@@ -1,13 +1,2 @@
-*.class
-
-# Package Files #
-*.war
-*.ear
-
-# IntelliJ Files #
-workspace.xml
-tasks.xml
-.idea/*
-*.iml
-
 .DS_Store
+.idea/*
